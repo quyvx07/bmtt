@@ -2582,6 +2582,48 @@ let list = [
         "aTL": [
             "answer_324758"
         ]
+    },
+    {
+        "q_id": "question_87574",
+        "aTL": [
+            "answer_324731"
+        ]
+    },
+    {
+        "q_id": "question_87540",
+        "aTL": [
+            "answer_324597"
+        ]
+    },
+    {
+        "q_id": "question_87518",
+        "aTL": [
+            "answer_324509"
+        ]
+    },
+    {
+        "q_id": "question_87681",
+        "aTL": [
+            "answer_325138"
+        ]
+    },
+    {
+        "q_id": "question_87625",
+        "aTL": [
+            "answer_324933"
+        ]
+    },
+    {
+        "q_id": "question_87596",
+        "aTL": [
+            "answer_324815"
+        ]
+    },
+    {
+        "q_id": "question_87622",
+        "aTL": [
+            "answer_324922"
+        ]
     }
 ];
 
